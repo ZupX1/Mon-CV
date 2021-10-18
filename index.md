@@ -11,7 +11,7 @@ virgil.prevost27@gmail.fr
 
 ## **EXPERIENCES PROFESSIONNELLES :**
 
-<span style="color:red"> 08/2019 à 11/2019: Sanofi Pasteur </span>- 2X8 + nuit fixe - en chambre froide +5°C
+<span style="color:magenta"> 08/2019 à 11/2019: Sanofi Pasteur </span>- 2X8 + nuit fixe - en chambre froide +5°C
 
 Opérateur technique de Distribution B40 - Intérim
 
